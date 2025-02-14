@@ -61,7 +61,7 @@ Pour déployer le site sur AWS S3 et CloudFront :
     •	Utilisez GitHub Actions pour automatiser le déploiement à chaque push sur la branche principale.
 
 
-### 🛠️ Technologies Utilisées
+## 🛠️ Technologies Utilisées
 - AWS CloudFront (Hébergement Frontend)
 - AWS API Gateway (Récupération des collectivités)
 - AWS Lambda (Traitement automatisé des données)
