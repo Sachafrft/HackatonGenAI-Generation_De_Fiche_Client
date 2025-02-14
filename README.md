@@ -66,13 +66,14 @@ Pour déployer le site sur AWS S3 et CloudFront :
 - AWS API Gateway (Récupération des collectivités)
 - AWS Lambda (Traitement automatisé des données)
 - DynamoDB (Stockage des liens)
-- AWS S3 (Stockage des résultats de scraping)
+- AWS S3 (Stockage des résultats intermédiaires)
 - AWS Bedrock (Génération de contenu à l'aide d'un RAG)
 
 ## 🎯 Objectifs et Critères de Succès
-- ✅ Automatisation complète du processus de génération des fiches
+- ✅ Implémentation d’un modèle RAG sur AWS pour la génération des fiches
 - ✅ Exactitude et complétude des informations collectées
 - ✅ Comparaison avec les fiches créées manuellement
+- ✅ Adaptabilité aux spécificités des différentes collectivités
 - ✅ Optimisation continue grâce aux retours d'expérience
 
 ## Contributions
