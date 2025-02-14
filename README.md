@@ -16,7 +16,7 @@ Fichotron - AI est une application web destinée à automatiser la génération 
 
 ## Diagramme
 
-https://app.diagrams.net/#G1wKoANF0H5xbULkWWFFZlY7RqFiJ2JjhM#%7B"pageId"%3A"WGVoRFlgTZLI0gF91VrL"%7D
+![Diagramme](graph.png)
 
 ## Fonctionnalités
 
